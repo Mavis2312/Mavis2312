@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Himanshu Maski
-- 👀 I’m interested in programing and Building Projects
-- 🌱 I’m currently learning Data Structures Algorithms and Android Studio
-- 💞️ I’m looking to collaborate on Android Developement
-- 📫 How to reach me himanshumaski18@gmail.com 
+```java
+package com.Himanshu;
+
+class Bio {
+    String name = "Himanshu Maski";
+    String userName = "Mavis2312";
+    String college = "Kalinga Institute of Industrial Technology";
+    String email = {"himanshumaski18@gmail.com"}
+    String[] interests = {"Java Development", "DevOps", "Open Source"};
+    String[] programmingLanguages = {"Java", "C/C++"};
+}
 
 <!---
 Mavis2312/Mavis2312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
