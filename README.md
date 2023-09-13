@@ -6,7 +6,7 @@ class Bio {
     String userName = "Mavis2312";
     String college = "Kalinga Institute of Industrial Technology";
     String email = {"himanshumaski18@gmail.com"}
-    String[] interests = {"Java Development", "DevOps", "Open Source"};
+    String[] interests = {"Java Development", "React", "Machine Learning"};
     String[] programmingLanguages = {"Java", "C/C++"};
 }
 
